@@ -1,0 +1,6 @@
+cycls==0.0.2.126
+openai>=1.0.0
+python-dotenv>=1.0.0
+fastapi
+uvicorn[standard]
+jinja2
